@@ -298,7 +298,7 @@ available at https://codimd.carpentries.org
 <h2 id="collaborative_notes">Collaborative Notes</h2>
 
 <p>
-We will use the Zoom chat for chatting and sharing URLs and bits of code.
+We will use this <a href="https://pad.carpentries.org/2025-05-15-unt">collaborative document</a> for chatting and sharing URLs and bits of code.
 </p>
 <hr/>
 {% endif %}
